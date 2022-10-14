@@ -61,7 +61,7 @@
 }
 
 .shadow1 {
-    display: flexbox;
+ 
     position: absolute;
     top: 93%;
     z-index: -1;
@@ -130,7 +130,7 @@
 } 
 
 .shadow2 {
-    display: flexbox;
+    
     position: absolute;
     top: 93%;
     z-index: -1;
